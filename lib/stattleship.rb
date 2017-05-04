@@ -11,6 +11,9 @@ require 'ostruct'
 require 'roar/coercion'
 require 'roar/json'
 
+require 'factory_class'
+require 'string_helpers'
+
 require 'stattleship/version'
 
 require 'stattleship/client/configuration'
@@ -21,6 +24,8 @@ require 'stattleship/formatters/stat_formatter'
 require 'stattleship/models'
 require 'stattleship/params'
 require 'stattleship/validators'
+
+require 'stattleship/seasons'
 
 require 'stattleship/feats'
 require 'stattleship/baseball_feats'

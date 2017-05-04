@@ -106,6 +106,8 @@ require 'stattleship/params/at_bats_params'
 require 'stattleship/params/line_ups_params'
 require 'stattleship/params/pitches_params'
 
+require 'stattleship/params/seasons_params'
+
 module Stattleship
   module Params
   end
